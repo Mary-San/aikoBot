@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885594184245",
+    "firebase_url": "https://aiko-robect.firebaseio.com",
+    "project_id": "aiko-robect",
+    "storage_bucket": "aiko-robect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885594184245:android:c7bef45432c2722ac0ef7c",
+        "android_client_info": {
+          "package_name": "com.example.aiko_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885594184245-78qp62d84guarp2n2g896bpfvm9f3e2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aiko_bot",
+            "certificate_hash": "3f8bea3fca0536194d3fba07eb95cfa05d5b9a9a"
+          }
+        },
+        {
+          "client_id": "885594184245-8ici5a1lplhmjvd8807llqko945vkfoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzAfU-dpqQM7t2iWPkdr89kPC6g0I7jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885594184245-8ici5a1lplhmjvd8807llqko945vkfoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
